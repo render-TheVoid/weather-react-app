@@ -7,6 +7,11 @@ Welcome to void, the app that tells you the weather because apparently, even bas
 3. Run `npm start` (congrats, you made it this far).
 4. Type a city name and hit Enter or click the search button. Try not to mess it up.
 
+## Live Demo / Deployment
+Check out the app in action here: [void Weather App](https://void-weather-app.vercel.app/) 🌤️  
+
+Go ahead, type a city, and watch it roast the weather for you in style.
+
 ## Tech Stack
 - **React** ⚛️ – because plain HTML is for peasants  
 - **JavaScript** – making sense of weather since forever  
