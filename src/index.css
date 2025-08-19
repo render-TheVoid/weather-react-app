@@ -140,13 +140,13 @@ body, .container, .title, .weather, .other-info {
   text-align: center;
 }
 
-@media (max-width: 1500px) {
+@media (max-width: 600px) {
   input {
-    width: 80%;
-    font-size: 1.5rem;
+    width: 60%;
+    font-size: 1rem;
   }
 
   .temp {
-    font-size: 8rem;
+    font-size: 6rem;
   }
 }
