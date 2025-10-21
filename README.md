@@ -8,7 +8,7 @@ Welcome to void, the app that tells you the weather because apparently, even bas
 4. Type a city name and hit Enter or click the search button. Try not to mess it up.
 
 ## Live Demo / Deployment
-Check out the app in action here: [void Weather App](https://void-weather-app.vercel.app/) 🌤️  
+Check out the app in action here: [void Weather App](https://voidweather.vercel.app/) 🌤️  
 
 Go ahead, type a city, and watch it roast the weather for you in style.
 
